@@ -1,8 +1,0 @@
-AWS S3 Static Website Hosting Project
-
-Project Overview
-This project demonstrates how to **host a static website using Amazon S3** — one of the most cost-effective and beginner-friendly
-methods for deploying a website in the AWS Cloud.
-
-The goal was to build a **simple, publicly accessible website** stored in an S3 bucket, apply the correct **permissions, bucket policies, and versioning**, and implement 
-a **lifecycle configuration** for cost optimization.
