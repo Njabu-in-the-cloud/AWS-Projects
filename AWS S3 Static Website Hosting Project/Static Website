@@ -1,10 +1,9 @@
 AWS S3 Static Website Hosting Project
 
-Project Overview
+**Project Overview**
 This project demonstrates how to host a static website using Amazon S3
 
-The goal was to build a simple, publicly accessible website stored in an S3 bucket, apply the correct permissions, bucket policies, and versioning ,
-and implement a lifecycle configuration for cost optimization.
+The goal was to build a simple, publicly accessible website stored in an S3 bucket, apply the correct permissions, bucket policies, and versioning, and implement a lifecycle configuration for cost optimization.
 
 AWS Services Used
 - Amazon S3 — for object storage and website hosting  
